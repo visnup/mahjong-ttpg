@@ -1,0 +1,10 @@
+{
+  "name": "Mahjong",
+  "slug": "mahjong-ttpg",
+  "version": "0.0.1",
+  "transpile": true,
+  "guid": {
+    "dev": "6B7B42CAE0624D72A0960CFB75CEE4BE",
+    "prd": "E02A9A6C56744E0AAAE09FAD9999C4D0"
+  }
+}
